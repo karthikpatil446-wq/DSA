@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karthikpatil446-wq/DSA/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/karthikpatil446-wq/DSA/tree/master/0136-single-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karthikpatil446-wq/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3637-trionic-array-i](https://github.com/karthikpatil446-wq/DSA/tree/master/3637-trionic-array-i) |
 ## Hash Table
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/karthikpatil446-wq/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/karthikpatil446-wq/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
