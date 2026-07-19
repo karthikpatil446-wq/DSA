@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karthikpatil446-wq/DSA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/karthikpatil446-wq/DSA/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -49,4 +50,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karthikpatil446-wq/DSA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/karthikpatil446-wq/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
